@@ -81,7 +81,7 @@ body {
   width: 100%;
   border: none;
   font-size: 20px;
-  color: #7070703b;
+  color: #707070;
   border-bottom: 2px solid #7070703b;
   text-align: center;
 }
@@ -93,7 +93,7 @@ body {
   margin: auto;
   display: block;
 }
-.decoretion{
+.decoretion {
   text-decoration: none;
   color: white;
 }
@@ -208,8 +208,7 @@ footer {
   width: auto;
   height: 30px;
   gap: 30px;
-  
 }
-.set-pos{
+.set-pos {
   margin-left: 690px;
 }
